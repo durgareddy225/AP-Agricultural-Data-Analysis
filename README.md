@@ -72,5 +72,6 @@ Through **Exploratory Data Analysis (EDA)** and **data visualization** in Python
 ---
 
 ## Acknowledgments
+This project was undertaken as part of my academic curriculum at **Lovely Professional University**.
 I sincerely thank **Lovely Professional University** for providing the platform and resources to undertake this project.  
 Special thanks to my mentor **Dr. Karan Bajaj Sir** for his continuous guidance, encouragement, and valuable insights.
